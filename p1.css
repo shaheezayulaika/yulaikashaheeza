@@ -1,0 +1,11 @@
+@charset "utf-8";
+#p1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	letter-spacing: normal;
+	text-align: justify;
+	word-spacing: normal;
+	white-space: normal;
+	margin: 10px;
+	padding: 10px;
+	color: #5F3912;
+}
